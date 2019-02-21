@@ -9,15 +9,6 @@ I forked it from (upstream)[https://github.com/adapta-project/adapta-gtk-theme] 
 
 I increased margins around the top corners to ease resizing.
 
-
-04 Oct 2018
------------
- * Re-lock issues until we hunt a new maintainer (owner) of this project.
-
-02 Oct 2018
------------
- * Reverted all changes to 3.94.0.x.
-
 Before using Adapta
 -------------------
 
