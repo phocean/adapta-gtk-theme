@@ -5,7 +5,7 @@ An adaptive Gtk+ theme based on Material Design Guidelines.
 
 #### Motivation for this fork
 
-I forked it from (upstream)[https://github.com/adapta-project/adapta-gtk-theme] to improve usuability under Mate (or, more precisely, Metacity/Marco window manager).
+I forked it from [upstream](https://github.com/adapta-project/adapta-gtk-theme] to improve usuability under Mate (or, more precisely, Metacity/Marco window manager).
 
 I increased margins around the top corners to ease resizing.
 
